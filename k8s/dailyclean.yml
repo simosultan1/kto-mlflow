@@ -62,7 +62,7 @@ apiVersion: rbac.authorization.k8s.io/v1
 kind: Role
 metadata:
   name: dailyclean
-  namespace: mohammedelmesbahi31-dev
+  namespace: mohammed-elmesbahi31-dev
 rules:
   - verbs:
       - get
